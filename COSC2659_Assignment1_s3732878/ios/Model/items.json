@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Ganesh",
+        "address": "54 Đường số 6, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "type": "Dinner",
+        "phone": "+84 28 5410 1627",
+        "rate": 4.2,
+        "imageName": "Ganesh",
+        "information": "In this restaurant, you can enjoy a variety of Indian curry with naan. The price is a little high, but you can have a decent dinner.",
+        "subInfomation": "Indian Restaurant",
+        "imageArray": ["Ganesh1", "Ganesh2", "Ganesh3"],
+
+        "coordinates": {
+            "latitude": 10.730389980231449,
+            "longitude": 106.70781280341541
+        }
+    },
+
+    {
+        "name": "Nha hang Lang man Oc",
+        "address": "17 Nguyễn Bá Lân, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "type": "Dinner",
+        "phone": "+84 345 445 660",
+        "rate": 4.8,
+        "imageName": "Nha hang Lang man Oc",
+        "information": "This restaurant has two main menus. Korean steamed clams and grilled clams are good to eat with soju. Shells are all very fresh.",
+        "subInfomation": "Korean Restaurant",
+        "imageArray": ["Nha hang Lang man Oc1", "Nha hang Lang man Oc2", "Nha hang Lang man Oc3"],
+
+        "coordinates": {
+            "latitude": 10.802834508582247,
+            "longitude": 106.736244838165
+        }
+    },
+
+    {
+        "name": "Quan Ut Ut Xuan Thuy",
+        "address": "47 Xuân Thủy, P, Quận 2, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "type": "Dinner",
+        "phone": "+84 283 744 6947",
+        "rate": 4.7,
+        "imageName": "Quan Ut Ut",
+        "information": "This restaurant sells American BBQ. Pork ribs and pulled fork are very attractive, and you can enjoy your meal in a party-like atmosphere. It's not cheap, but it's good to go on a special day!!",
+        "subInfomation": "American Style BBQ",
+        "imageArray": ["Quan Ut Ut Xuan Thuy1", "Quan Ut Ut Xuan Thuy2", "Quan Ut Ut Xuan Thuy3"],
+
+        "coordinates": {
+            "latitude": 10.803650762831978,
+            "longitude": 106.73280987808913
+        }
+    },
+
+    {
+        "name": "Kimgane kimbap",
+        "address": "57 Cao Triều Phát, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 756620, Vietnam",
+        "type": "Lunch",
+        "phone": "+84 376 531 000",
+        "rate": 4.7,
+        "imageName": "Kimgane kimbap",
+        "information": "This restaurant mainly sells Koreans' favorite Korean food. The menu is very diverse, and the price is reasonable. It is highly recommended for those who want to try various Korean foods. Lastly, the best thing about this restaurant is that it is open 24 hours a day.",
+        "subInfomation": "Korean Restaurant",
+        "imageArray": ["kimgane kimbap1", "kimgane kimbap2", "kimgane kimbap3"],
+
+        "coordinates": {
+            "latitude": 10.732046518919054,
+            "longitude": 106.70817479768299
+        }
+    },
+
+    {
+        "name": "Quan Bui Garden",
+        "address": "55A Ngô Quang Huy, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "type": "Lunch",
+        "phone": "+84 283 898 9088",
+        "rate": 4.3,
+        "imageName": "Quan Bui Garden",
+        "information": "This restaurant is a universal Vietnamese restaurant. I would like to recommend it to tourists or foreigners because the scent of spices is less strong than ordinary Vietnamese dishes. The food is also neat and delicious. In the afternoon, the vintage and colorful interior is very harmonious with the sunlight coming through the window.",
+        "subInfomation": "Vietnamese Restaurant",
+        "imageArray": ["Quan Bui Garden1", "Quan Bui Garden2", "Quan Bui Garden3"],
+
+        "coordinates": {
+            "latitude": 10.805321223038547,
+            "longitude": 106.73572680932956
+        }
+    },
+
+    {
+        "name": "Kashew Cheese Deli",
+        "address": "14 Đ. Trần Ngọc Diện, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh 700000, Vietnam",
+        "type": "Lunch",
+        "phone": "+84 98 989 09 27",
+        "rate": 4.6,
+        "imageName": "Kashew Cheese Deli",
+        "information": "This restaurant sells various sandwiches. You can visit in the morning, but I recommend you to sit around a pond at an outdoor table at lunchtime and enjoy the atmosphere. The ingredients are very fresh, and the color of the dish is very beautiful for taking pictures. The taste is also perfect, but the food is expensive.",
+        "subInfomation": "Sandwich Store",
+        "imageArray": ["Kashew Cheese Deli1", "Kashew Cheese Deli2", "Kashew Cheese Deli3"],
+
+        "coordinates": {
+            "latitude": 10.803541427805797,
+            "longitude": 106.7392297351866
+        }
+    },
+
+    {
+        "name": "Pho Trang",
+        "address": "420 Phạm Thái Bường, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "type": "Breakfast",
+        "phone": "+84 92 226 69 66",
+        "rate": 4.8,
+        "imageName": "Pho Trang",
+        "information": "This place is a Vietnamese pho restaurant. It's good to have a simple meal in the morning, and there are many different kinds of pho. All the menus are delicious and the price is cheap. The food is light overall, so you can eat it easily in the morning. I recommend beef rib pho, the signature menu of this restaurant.",
+        "subInfomation": "Pho restaurant",
+        "imageArray": ["Pho Trang1", "Pho Trang2", "Pho Trang3"],
+
+        "coordinates": {
+            "latitude": 10.727725660975311,
+            "longitude": 106.7075846985934
+        }
+    },
+
+    {
+        "name": "Banh Mi 362",
+        "address": "55 Nguyễn Đức Cảnh, Tân Phong, Quận 7, Thành phố Hồ Chí Minh 70000, Vietnam",
+        "type": "Breakfast",
+        "phone": "+84 90 938 53 84",
+        "rate": 4.4,
+        "imageName": "Banh Mi 362",
+        "information": "This restaurant is a Vietnamese Banh Mi store. Not only do you have a variety of Banh Mi, but you can also add the ingredients you want according to your preference. Because the food comes out quickly, you can have a simple meal when you're busy and it's also easy to pack.",
+        "subInfomation": "Banh Mi Store",
+        "imageArray": ["Banh Mi 3621", "Banh Mi 3622", "Banh Mi 3623"],
+
+        "coordinates": {
+            "latitude": 10.727306553927646,
+            "longitude": 106.70878764811839
+        }
+    },
+
+    {
+        "name": "Boomerang Bistro Saigon",
+        "address": "107 Tôn Dật Tiên, Tân Phú, Quận 7, Thành phố Hồ Chí Minh 72908, Vietnam",
+        "type": "Breakfast",
+        "phone": "+84 90 186 80 00",
+        "rate": 4.2,
+        "imageName": "Boomerang Bistro Saigon",
+        "information": "This restaurant is a European-style restaurant located next to the lake. From salad to pasta to steak, the menu is diverse and the taste is amazing, but the price is horrible. I recommend you to relax and enjoy brunch and enjoy the lake on weekends rather than on a week day.",
+        "subInfomation": "Modern European Restaurant",
+        "imageArray": ["Boomerang Bistro Saigon1", "Boomerang Bistro Saigon2", "Boomerang Bistro Saigon3"],
+
+        "coordinates": {
+            "latitude": 10.726462292767105,
+            "longitude": 106.7204143246704
+        }
+    },
+
+    {
+        "name": "Cheesecake Ngon Cake Shop",
+        "address": "14e Đ. Quốc Hương, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "type": "Coffee",
+        "phone": "+84 90 954 20 56",
+        "rate": 4.6,
+        "imageName": "Cheesecake Ngon Cake Shop",
+        "information": "This store specializes in selling cheesecake. All kinds of cakes are cheesecakes, and they have a rich cheese flavor. Also, if you order a cake, you can get beautiful plated cake on the plate. I recommend enjoying it with coffee after taking lunch rather than in the evening. One thing to note is that most cakes are out of stock after 7 p.m.",
+        "subInfomation": "Cake Shop",
+        "imageArray": ["Cheesecake Ngon Cake Shop1", "Cheesecake Ngon Cake Shop2", "Cheesecake Ngon Cake Shop3"],
+
+        "coordinates": {
+            "latitude": 10.802665919329248,
+            "longitude": 106.73295822260884
+        }
+    },
+
+    {
+        "name": "Østerberg Ice Cream",
+        "address": "94 Xuân Thủy, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "type": "Coffee",
+        "phone": "+84 28 3620 6311",
+        "rate": 4.9,
+        "imageName": "Østerberg Ice Cream",
+        "information": "This store is a handmade ice cream store. There are so many different kinds of ice cream, and each one has its own charm. When ordering ice cream, you can choose between a cone and a cup. Also, if you order an ice cream cake in advance for a special day, you can get it delivered within a short distance",
+        "subInfomation": "Ice Cream Shop",
+        "imageArray": ["Østerberg Ice Cream1", "Østerberg Ice Cream2", "Østerberg Ice Cream3"],
+
+        "coordinates": {
+            "latitude": 10.80385329200274,
+            "longitude": 106.73509175535484
+        }
+    },
+
+    {
+        "name": "Cafe Mongdang",
+        "address": "94 Xuân Thủy, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Vietnam",
+        "type": "Coffee",
+        "phone": "+84 28 3620 6311",
+        "rate": 4.3,
+        "imageName": "Cafe Mongdang",
+        "information": "This store is a handmade ice cream store. There are so many different kinds of ice cream, and each one has its own charm. When ordering ice cream, you can choose between a cone and a cup. Also, if you order an ice cream cake in advance for a special day, you can get it delivered within a short distance",
+        "subInfomation": "Cafe",
+        "imageArray": ["Cafe Mongdang1", "Cafe Mongdang2", "Cafe Mongdang3"],
+
+        "coordinates": {
+            "latitude": 10.73081106651281,
+            "longitude": 106.70725393206281
+        }
+    },
+
+    {
+        "name": "Ruby Soho",
+        "address": "S52-1 Sky Garden, 2 Đ. Phạm Văn Nghị, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "type": "Pub",
+        "phone": "+84 91 360 77 24",
+        "rate": 4.3,
+        "imageName": "Ruby Soho",
+        "information": "This is a small pub in town, but a draft beer is great. The atmosphere is generally unique and quiet. This store also sell many other kinds of alcohol, so please try it if you have a chance. If you want to drink and talk quietly with your friends after work, it is also good to use the space separated by a partition on the second floor.",
+        "subInfomation": "Pub",
+        "imageArray": ["Ruby Soho1", "Ruby Soho2", "Ruby Soho3"],
+
+        "coordinates": {
+            "latitude": 10.731403201895716,
+            "longitude": 106.70660168234127
+        }
+    },
+
+    {
+        "name": "Speakeasy",
+        "address": "s35 -1 Le Van Thiem, Huong Vuong 2, Phu My Hung, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Vietnam",
+        "type": "Pub",
+        "phone": "No phone number",
+        "rate": 4.6,
+        "imageName": "Speakeasy",
+        "information": "This bar has nothing special about it, but you can enjoy pocketball with other guests at the bar. If you live in Phu My Hung, make new friends here!",
+        "subInfomation": "Bar",
+        "imageArray": ["Speakeasy1", "Speakeasy2", "Speakeasy3"],
+
+        "coordinates": {
+            "latitude": 10.731069142743724,
+            "longitude": 106.70882039583489
+        }
+    }
+]
+

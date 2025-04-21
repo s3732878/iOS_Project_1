@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Phở Trang - Phạm Thái Bường.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Phở Trang - Phạm Thái Bường@2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Phở Trang - Phạm Thái Bường@3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
